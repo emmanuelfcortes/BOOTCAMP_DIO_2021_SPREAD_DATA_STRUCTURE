@@ -2,92 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d28c46a-840d-4e49-ba11-2327d0f014f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ArvoreBinariaBusca/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArvoreBinariaBusca/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArvoreBinariaBusca/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArvoreBinariaBusca/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArvoreBinariaBusca/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArvoreBinariaBusca/ArvoreBinariaBusca.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArvoreBinariaBusca/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArvoreBinariaBusca/src/main/java/com/arvoreBinariaBusca/ArvoreBinariaBusca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArvoreBinariaBusca/src/main/java/com/arvoreBinariaBusca/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArvoreBinariaBusca/src/main/java/com/arvoreBinariaBusca/NoArvore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArvoreBinariaBusca/src/main/java/com/arvoreBinariaBusca/model/Obj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArvoreBinariaBusca/src/main/java/com/arvoreBinariaBusca/model/ObjetoArvore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EqualsHashcode/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EqualsHashcode/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EqualsHashcode/src/main/java/com/equalsHashcode/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EqualsHashcode/src/main/java/com/equalsHashcode/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lista/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lista/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lista/src/main/java/br/com/listasImplementacao1/Gato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lista/src/main/java/br/com/listasImplementacao1/MainGato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lista/src/main/java/br/com/listasInicial/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListaCircularDuplamenteEncadeada/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaCircularDuplamenteEncadeada2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListaDuplamenteEncadeada/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListaDuplamenteEncadeada/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListaDuplamenteEncadeada/src/main/java/com/ListaDuplamenteEncadeada/ListaDupla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListaDuplamenteEncadeada/src/main/java/com/ListaDuplamenteEncadeada/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListaDuplamenteEncadeada/src/main/java/com/ListaDuplamenteEncadeada/NoDuplo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MapJavaImplementation/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MapJavaImplementation/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MapJavaImplementation/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MapJavaImplementation/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MapJavaImplementation/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MapJavaImplementation/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MapJavaImplementation/MapJavaImplementation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MapJavaImplementation/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MapJavaImplementation/src/main/java/br/com/map/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MapJavaImplementation/src/main/java/br/com/map/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MapJavaImplementation/src/main/java/br/com/map/MainCarro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MapJavaImplementation/src/main/java/br/com/map/MainLivro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PROJETO_NO/src/main/java/com/projeto_no/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PROJETO_NO/src/main/java/com/projeto_no/No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjetoFila/src/main/java/com/dio/fila/Fila.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjetoFila/src/main/java/com/dio/fila/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjetoFila/src/main/java/com/dio/fila/No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QueueBasic/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QueueBasic/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QueueBasic/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QueueBasic/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QueueBasic/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QueueBasic/QueueBasic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QueueBasic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/src/main/java/br/com/set/ExemploSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/src/main/java/br/com/setOrdenacao/Serie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/src/main/java/br/com/setOrdenacao/SerieExemplo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StreamAPI/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StreamAPI/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StreamAPI/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StreamAPI/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StreamAPI/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StreamAPI/StreamAPI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StreamAPI/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StreamAPI/src/main/java/br/com/stream/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mapExampleContacts/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mapExampleContacts/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mapExampleContacts/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mapExampleContacts/src/main/java/br/com/mapExample1/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mapExampleContacts/src/main/java/br/com/mapExample1/MainContacts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projetoGenerics/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projetoGenerics/src/main/java/com/projetoGenerics/Listas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projetoGenerics/src/main/java/com/projetoGenerics/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projetoListaEncadeada/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projetoListaEncadeada/src/main/java/com/listaencadeada/ListaEncadeada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projetoListaEncadeada/src/main/java/com/listaencadeada/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projetoListaEncadeada/src/main/java/com/listaencadeada/No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projetoPilha/src/main/java/com/projetopilha/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projetoPilha/src/main/java/com/projetopilha/No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projetoPilha/src/main/java/com/projetopilha/Pilha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QueueBasic/src/main/java/br/com/queueBasic/QueueMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QueueBasic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../QueueBasic/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -111,7 +28,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/listacircular/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
+            <state relative-caret-position="341">
               <caret line="51" column="69" selection-start-line="51" selection-start-column="69" selection-end-line="51" selection-end-column="69" />
               <folding>
                 <element signature="e#232#240#0" expanded="true" />
@@ -218,7 +135,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1640146774258" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1640148496768" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -282,7 +199,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32872504" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34076434" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34076434" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -324,7 +241,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/listacircular/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
+        <state relative-caret-position="341">
           <caret line="51" column="69" selection-start-line="51" selection-start-column="69" selection-end-line="51" selection-end-column="69" />
           <folding>
             <element signature="e#232#240#0" expanded="true" />
